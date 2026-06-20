@@ -8,14 +8,6 @@
 ![Plotly](https://img.shields.io/badge/Plotly-5.x-3F4F75?logo=plotly&logoColor=white)
 ![openpyxl](https://img.shields.io/badge/openpyxl-Excel-green)
 
----
-
-## 📸 Screenshot
-
-<!-- Replace with actual screenshot after first run -->
-![Sales Intelligence Suite Screenshot](screenshot.png)
-
----
 
 ## ✨ Features
 
